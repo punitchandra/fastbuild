@@ -1,4 +1,5 @@
 #FASTBuild
+[![codecov](https://codecov.io/gh/punitchandra/fastbuild/branch/master/graph/badge.svg)](https://codecov.io/gh/punitchandra/fastbuild)
 
 ##Branch policy
 
